@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="Museum"></dbname>
+
+    <version value="10"></version>
+
+    <list>
+        <mapping class="com.example.dell.museum3.User"></mapping>
+        <mapping class="com.example.dell.museum3.Collection"></mapping>
+        <mapping class="com.example.dell.museum3.Forenotice_class"></mapping>
+        <mapping class="com.example.dell.museum3.NewsAndEvent_class"></mapping>
+        <mapping class="com.example.dell.museum3.Guidance_class"></mapping>
+        <mapping class="com.example.dell.museum3.Volunteer_class"></mapping>
+    </list>
+</litepal>
